@@ -1,0 +1,5 @@
+I am building a soft body dynamics simulator based on SPH, or smoothed-particle hydrodynamics. I
+first developed a SPH simulator as a base class for the SBD simulator, and extended the class so that particle forces
+included a spring force based on Hooke's Law. This model approximates phenomena such as jelly, cloth, mud, etc. Uses can change
+simulation parameters such as viscosity, particle mass, etc. The simulation works because SPH models the Navier-Stokes
+equations which accurately describe the behavior of fluid.

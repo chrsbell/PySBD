@@ -1,0 +1,8 @@
+http://www.petercollingridge.co.uk/pygame-physics-simulation/specific-attraction-springs
+	- Using springs between particles to roughly simulate soft bodies in python.
+	- Anti - Not very accurate, bodies cannot be sliced/combined, collision detection bug
+	- Pro - Fast, can drag objects with mouse
+https://code.google.com/p/fluid-particles/
+	- Basic implementation of SPH simulator, simple to understand
+	- Anti - no soft body implementation
+	- Pro - easy to compare my design to this one
