@@ -12,7 +12,7 @@ Just open up main.py and hit F5 to start the simulation!
 
 ####Modules Needed:
   - [PyUI](http://sourceforge.net/projects/pyui/), included
-  - [NumPy](http://www.numpy.org/)
+  - [NumPy](http://www.numpy.org/), [NumPy for Python 3.5](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy)
   - [PyOpenGL](https://pypi.python.org/pypi/PyOpenGL)
 
 ####Preliminary Analysis of Existing Work:
